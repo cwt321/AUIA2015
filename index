@@ -1,0 +1,169 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <style>
+      /* No content under the fixed bootstrap header. */
+      body {
+        padding-top: 48px;
+      }
+    </style>
+    <link href="stylesheets/bootstrap.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/bootstrap-responsive.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/common.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/fontawesome.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/project.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/tour.css" media="screen" rel="stylesheet" type="text/css" />
+    <!-- Typekit fonts require an account and a kit containing the fonts used. see https://typekit.com/plans for details. <script type="text/javascript" src="//use.typekit.net/YOUR_KIT_ID.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+-->
+    <title>tt</title>
+  </head>
+  
+  <body>
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="responsive-container">
+          <a class="btn btn-navbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a> <strong></strong>
+
+          <a class="brand" href="#"> <i class="icon icon-plus-sign"></i> AUIA</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li>
+                <a href="#" class="a-2"><strong>关于AUIA</strong> 
+                </a>
+              </li>
+              <li>
+                <a href="#" class="a-1"><strong>课程介绍</strong>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="a-1"><strong>学分转换</strong>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="a-1"><strong>申请指南</strong>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="a-1"><strong>学费信息</strong>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="a-1"><strong>校园生活</strong>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="a-1"><strong>校园生活</strong>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid container-fluid-1 container-fluid-2">
+      <div class="row-fluid">
+        <span class="span12">
+          <h1 class="heading">少即是多</h1>
+          <p>AUIA国际暑期学校的可靠学分、低廉收费、多彩活动是您最具性价比的选择。</p>
+          <a href="#" class="btn btn-primary btn-large">了解更多</a>
+        </span>
+      </div>
+    </div>
+    <div class="container-fluid container-fluid-3">
+      <div class="row-fluid">
+        <span class="span4">
+          <img src="images/button-01.png" class="pull-center image">
+          <p>唯一不受中国教育部CDGCD管辖暑期学校，学分转换无忧</p>
+        </span>
+        <span class="span4">
+          <img src="images/button-02.png" class="pull-center image">
+          <p>丰富的美国大学本科课程，满足你多样的课程选择</p>
+        </span>
+        <span class="span4">
+          <img src="images/button-03.png" class="pull-center image">
+          <p>亚太地区最具性价比国际暑期学校排名第一，每学分低至200美元</p>
+        </span>
+      </div>
+      <div class="row-fluid row-fluid-1">
+        <span class="span4">
+          <img src="images/button-04.png" class="pull-center image">
+          <p>前所未有的50天台湾超长签证，AUIA全程托管。为你打理一切你所想到的和你没有想到的</p>
+        </span>
+        <span class="span4">
+          <img src="images/button-05.png" class="pull-center image">
+          <p>台北市心脏地段的校区和宿舍，步行3分钟到达教学楼及忠孝新生捷运站</p>
+        </span>
+        <span class="span4">
+          <img src="images/button-06.png" class="pull-center image">
+          <p>丰富多彩的台湾旅行活动，九份山城，北投温泉，垦丁潜泳，花莲热气球，猫空缆车</p>
+        </span>
+      </div>
+    </div>
+    <div class="container-fluid container-fluid-1 container-fluid-4">
+      <div class="row-fluid">
+        <span class="span12">
+          <h1 class="heading">算算AUIA的学费？</h1>
+        </span>
+      </div>
+      <div class="row-fluid">
+        <span class="span12">
+          <div class="btn-group pull-center">
+            <button class="btn btn-large">一门课</button>
+            <button class="btn btn-large">两门课</button>
+            <button class="btn btn-large">三门课</button>
+          </div>
+        </span>
+      </div>
+      <div class="container">
+        <div class="row-fluid">
+          <span class="span12">
+            <div class="pull-left">
+              <label class="checkbox pull-left">
+                <input type="checkbox" value="" name="">
+                <span>需要住宿</span>
+              </label>
+            </div>
+          </span>
+        </div>
+      </div>
+      <div class="row-fluid">
+        <span class="span12 span12-1">
+          <div class="container">
+            <div class="row-fluid">
+              <span class="span12">
+                <div class="pull-left">
+                  <label class="checkbox pull-center">
+                    <input type="checkbox" value="" name="">
+                    <span>需要签证</span>
+                  </label>
+                </div>
+              </span>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row-fluid">
+              <span class="span12">
+                <div class="pull-center">
+                  <input class="textinput pull-left" type="text" name="" value="缴费时间" placeholder="Placeholder">
+                </div>
+              </span>
+            </div>
+          </div>
+          <div class="alert alert-success">
+            <button type="button" class="btn close">x</button> <b>我的学费是：3580美金</b>
+
+          </div>
+        </span>
+      </div>
+    </div>
+  </body>
+
+</html>
